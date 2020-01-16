@@ -1,0 +1,12 @@
+# Unity
+Library
+Temp
+*.pidb
+*.userprefs
+*.unitypackage
+
+# Misc
+*.swp
+*.lnk
+.DS_Store
+Thumbs.db
